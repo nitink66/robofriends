@@ -8,6 +8,7 @@ Live : https://nitink66.github.io/robofriends/
 
 
 This project was bootstrapped with [Create React App]
+This project uses JSON placeholder online REST API
 
 ## Available Scripts
 
