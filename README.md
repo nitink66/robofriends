@@ -7,7 +7,8 @@ Live : https://nitink66.github.io/robofriends/
 3. Run npm start
 
 
-This project was bootstrapped with [Create React App]
+This project was bootstrapped with [Create React App],
+
 This project uses JSON placeholder online REST API
 
 ## Available Scripts
